@@ -52,4 +52,4 @@ class Api {
   }
 }
 
-export const api = new Api(config);
+const api = new Api(config);
